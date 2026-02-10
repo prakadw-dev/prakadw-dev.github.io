@@ -1,0 +1,105 @@
+body {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  padding: 20px;
+  background-color: #dedbd2;
+}
+
+h1 {
+  text-align: left;
+  margin: 15px 20px;
+}
+h2 {
+  margin: 10px;
+}
+.main-heading {
+  text-decoration: none;
+  color: black;
+  transition: 1s;
+}
+
+.main-heading:hover {
+  cursor: pointer;
+  color: #4a5759;
+  text-decoration: underline;
+}
+
+.about-me-body {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+}
+.social-link {
+  display: inline-block;
+}
+img {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  padding: 10px;
+}
+
+.social-link {
+  display: flex;
+  justify-content: row space-between;
+}
+a {
+  text-decoration: none;
+  font-weight: 300;
+}
+.resume-button,
+.socials-button,
+.projects-button {
+  font-family: "Sour Gummy", sans-serif;
+  padding: 7px;
+}
+button:hover {
+  transition: 0.5s;
+  cursor: pointer;
+  color: white;
+  background-color: black;
+}
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+input[type="text"],
+select,
+textarea {
+  width: 100%;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+  margin: 10px 5px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  font-weight: 200;
+  margin: 15px;
+}
+
+@media (max-width: 900px) {
+  body {
+    text-align: center;
+  }
+
+  .about-me-body {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+  }
+  .resume-button,
+  .socials-button,
+  .projects-button {
+    margin: 5px;
+  }
+}
