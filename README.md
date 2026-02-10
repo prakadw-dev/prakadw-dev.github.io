@@ -13,9 +13,9 @@ Add a short paragraph describing the features below. What aesthetic and technica
 - [✅] At least one profile picture - I put my profile picture on the front page
 - [✅] Biography (at least 100 words) - Next to my picture, there is my description of myself
 - [✅] Functional Contact Form - on the page 2, it has form to contact me
-- [✅] "Projects" section 
+- [✅] "Projects" section
 - [✅] Links to external sites, e.g. GitHub and LinkedIn. - Page 1 has my own website URL, page 2 has my personal profiles
-      ​
+  ​
 
 ### Technical
 
@@ -23,9 +23,9 @@ Add a short paragraph describing the features below. What strategies or design d
 
 - [✅] At least 2 web pages. - connected through button "Where to find me"
 - [✅] Version controlled with Git
-- [ ] Deployed on GitHub pages.
+- [✅] Deployed on GitHub pages.
 - [✅] Implements responsive design principles.
-- [ ] Uses semantic HTML.
+- [✅] Uses semantic HTML.
 
 ### Bonus (optional)
 
@@ -52,5 +52,6 @@ Add a short paragraph describing the features below, if you included any.
 ![My second page, contact page] (./img/contact-page.png)
 ![Reactive feature, hover cursor on the button] (./img/hover1.png) (./img/hover2.png)
 ![Reactive page on iPhone XS dimention] (./img/reactive.png)
+![Excalidraw screenshot https://ibb.co/XrXtnnmV]
 
 # html_css_project
