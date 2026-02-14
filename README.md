@@ -48,10 +48,11 @@ Add a short paragraph describing the features below, if you included any.
 
 ![Put a description of your image here](./relative_path_to_file)
 
-![Home page] (./img/homepage.png)
-![My second page, contact page] (./img/contact-page.png)
-![Reactive feature, hover cursor on the button] (./img/hover1.png) (./img/hover2.png)
-![Reactive page on iPhone XS dimention] (./img/reactive.png)
+![Home page] ./img/homepage.png
+![My second page, contact page] ./img/contact-page.png
+![Reactive feature, hover cursor on the button] ./img/hover1.png
+./img/hover2.png
+![Reactive page on iPhone XS dimention] ./img/reactive.png
 ![Excalidraw screenshot https://ibb.co/XrXtnnmV]
 
 # html_css_project
